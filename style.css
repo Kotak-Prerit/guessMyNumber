@@ -5,6 +5,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  border: 1px solid #fff;
 }
 
 body {
@@ -92,6 +93,7 @@ main {
 
 .left {
   display: flex;
+  width: 100%;
   justify-content: start;
   align-items: center;
   flex-direction: column;
