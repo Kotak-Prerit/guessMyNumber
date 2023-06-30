@@ -10,6 +10,7 @@
 body {
   font-family: 'Press Start 2P', sans-serif;
   height: 100vh;
+  width: 100%;
   color: #eee;
   background-color: #121212;
   /* background-color: #60b347; */
